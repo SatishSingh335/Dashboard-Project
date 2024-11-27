@@ -1,0 +1,5 @@
+.grid-pure{
+    display: grid;
+    grid-template-columns: 64% 34%;
+    gap: 2%;
+}
